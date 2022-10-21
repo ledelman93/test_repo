@@ -1,3 +1,3 @@
 # title
-## subreader
+## subheader
 My beautiful first repo
